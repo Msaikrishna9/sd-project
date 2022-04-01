@@ -61,12 +61,12 @@ button {
   align-items: center;
 }
 .help {
-  color: rgb(24, 24, 24)!important;
+  color: rgb(24, 24, 24) !important;
 }
-.forgot a{
-    font-size: 14px;
-    color: #2f3193!important;
-    font-weight: 600!important;
+.forgot a {
+  font-size: 14px;
+  color: #2f3193 !important;
+  font-weight: 600 !important;
 }
 .number input,
 .password input {
@@ -78,7 +78,6 @@ button {
   height: 44px;
   width: 380px;
   max-width: 380px;
-  font-weight: 400;
   position: relative;
 }
 .sd-l-leftbottom {
